@@ -1,1 +1,1 @@
-git add .
+git add -- .tmux/sessions/1chba8o2b0n/command.txt
